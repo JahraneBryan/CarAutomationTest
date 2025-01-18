@@ -1,0 +1,5 @@
+pages\CarAutomationTest.class
+utils\FileUtils.class
+utils\RegexUtils.class
+pages\EnterRegistrationPage.class
+pages\CarDetailsPage.class
